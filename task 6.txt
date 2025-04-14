@@ -1,0 +1,7 @@
+part A  solution = as i have to make a way that we get to know when we move a chess piece from one box to other so i got the idea is that when we remove a      piece from a box it will turn red and when we keep the piece on the other box then it will turn green . for this the mechanism we use is that we will set a lighting system that when we lift mass from a box it should turn red and if i keep mass on a box it should turn green as the mass increases and this will light up for a while and say after 5 sec the lighting will stop. 
+
+
+
+
+solution of B =I thing my answer is the solution for both A and B part if i'm not wrong. I  mean is for the part B      
+as i have limited wires i'll try to arrange four boxes together and fi the light which can be operated on the basis of one wire and such a system that if we put weight on it , it will show green like something like seesaw below each box so if you tale weight it will show red if you put weight it will show green.
